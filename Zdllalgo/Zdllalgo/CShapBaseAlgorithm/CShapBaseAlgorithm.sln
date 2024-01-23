@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShapBaseAlgorithm", "CShapBaseAlgorithm\CShapBaseAlgorithm.csproj", "{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9} = {C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmDLL", "..\AlgorithmDLL\AlgorithmDLL\AlgorithmDLL.vcxproj", "{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Debug|x64.Build.0 = Debug|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Debug|x86.Build.0 = Debug|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Release|x64.ActiveCfg = Release|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Release|x64.Build.0 = Release|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Release|x86.ActiveCfg = Release|Any CPU
+		{F1FDDBE2-F025-4609-9541-2B136B3E7E6B}.Release|x86.Build.0 = Release|Any CPU
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Debug|x64.ActiveCfg = Debug|x64
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Debug|x64.Build.0 = Debug|x64
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Debug|x86.Build.0 = Debug|Win32
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Release|x64.ActiveCfg = Release|x64
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Release|x64.Build.0 = Release|x64
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Release|x86.ActiveCfg = Release|Win32
+		{C0A79FFB-AEB5-428F-B09F-C972E7B11AE9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B17E53-5BF6-4EB6-ACA6-816A9036B241}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+  khAlgoritm.cpp
+D:\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(82,1): warning C4273: 'Dijkstra': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(33,33): message : 'Dijkstra'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(91,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(167,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(181,1): warning C4273: 'FreeGraphInfoArryPtr': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(35,27): message : 'FreeGraphInfoArryPtr'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+  LINK : D:\Zdllalgo\CShapBaseAlgorithm\Debug\AlgorithmDLL.dll을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+     D:\Zdllalgo\CShapBaseAlgorithm\Debug\AlgorithmDLL.lib 라이브러리 및 D:\Zdllalgo\CShapBaseAlgorithm\Debug\AlgorithmDLL.exp 개체를 생성하고 있습니다.
+  AlgorithmDLL.vcxproj -> D:\Zdllalgo\CShapBaseAlgorithm\Debug\AlgorithmDLL.dll

@@ -1,0 +1,44 @@
+﻿  pch.cpp
+  dllmain.cpp
+  khAlgoritm.cpp
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(82,61): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(104,56): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(110,63): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(127,34): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(129,24): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(136,41): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(152,34): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(154,24): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(161,58): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(176,41): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(200,36): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(240,1): warning C4273: 'Dijkstra': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(44,33): message : 'Dijkstra'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(244,62): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(280,54): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(316,45): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(323,1): warning C4273: 'BFS': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(52,27): message : 'BFS'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(345,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(358,36): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(372,44): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(385,1): warning C4273: 'DFS': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(59,27): message : 'DFS'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(395,36): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(441,1): warning C4273: 'Kruskal': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(64,27): message : 'Kruskal'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(452,50): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(500,46): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(507,1): warning C4273: 'AABB': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(72,27): message : 'AABB'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(516,1): warning C4273: 'AABB_ArryPtr': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(73,27): message : 'AABB_ArryPtr'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(527,1): warning C4273: 'AABB_Overlap': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(74,27): message : 'AABB_Overlap'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(547,1): warning C4273: 'FreeGraphInfoArryPtr': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(76,27): message : 'FreeGraphInfoArryPtr'의 이전 정의를 참조하십시오.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.cpp(552,1): warning C4273: 'FreeIntArryPtr': dll 연결이 일치하지 않습니다.
+D:\Zdllalgo\Zdllalgo\AlgorithmDLL\AlgorithmDLL\khAlgoritm.h(77,27): message : 'FreeIntArryPtr'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+     D:\Zdllalgo\Zdllalgo\CShapBaseAlgorithm\x64\Debug\AlgorithmDLL.lib 라이브러리 및 D:\Zdllalgo\Zdllalgo\CShapBaseAlgorithm\x64\Debug\AlgorithmDLL.exp 개체를 생성하고 있습니다.
+  AlgorithmDLL.vcxproj -> D:\Zdllalgo\Zdllalgo\CShapBaseAlgorithm\x64\Debug\AlgorithmDLL.dll
